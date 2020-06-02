@@ -10,7 +10,7 @@ public class Casa {
 	 * y desinfecta todas las superficies
 	 */
 
-	public void limpiarLaCasa() {
+	public void limpiarlaCasa() {
 		
 		extractedMensaje();
 	}
