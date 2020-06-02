@@ -11,11 +11,7 @@ public class Casa {
 	 */
 
 	public void limpiarLaCasa() {
-		
-		extractedMensaje();
-	}
 
-	private void extractedMensaje() {
 		String mensajito="Te hemos limpiado la casa, esta desinfectada";
 		System.out.println(mensajito);
 	}
